@@ -1,0 +1,20 @@
+{
+  "name": "coalsmart-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "CoalSmart control-room backend (Express + SQLite) for the coalsmart-frontend",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.5"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.7.1",
+    "ws": "^8.22.0"
+  }
+}
