@@ -16,6 +16,8 @@ portfolio of mines.
 
 ## Table of contents
 
+
+
 - [What it does](#what-it-does)
 - [Architecture](#architecture)
 - [Tech stack](#tech-stack)
